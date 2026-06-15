@@ -7,3 +7,4 @@ Thumbs.db
 
 # Keep the prototype source for reference but don't deploy
 # (index.html is the deployable version)
+.claude/
